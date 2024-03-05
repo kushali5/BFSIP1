@@ -1,0 +1,10 @@
+package Programs;
+
+public class PrintArrayElementsinReverse {
+
+	public static void main(String[] args) {
+		int a[]= {'r','e','v','e','r','s','e'};
+
+	}
+
+}

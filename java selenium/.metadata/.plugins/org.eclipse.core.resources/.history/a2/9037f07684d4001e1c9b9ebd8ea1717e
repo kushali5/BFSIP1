@@ -1,0 +1,12 @@
+package Day4;
+
+public class SingleDimensionalArray {
+
+	public static void main(String[] args) {
+		//1.declaring array
+		//approach 1
+		int a[]=new int[5];
+		
+	}
+
+}

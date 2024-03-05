@@ -1,0 +1,22 @@
+package Programs;
+
+import java.util.Scanner;
+
+public class NumberofDigits {
+
+	public static void main(String[] args) {
+		String num;
+		int totalDigits;
+		 Scanner s =new Scanner(System.in);
+		 
+		 System.out.println("Enter Number: ");
+		 
+		 num = s.next();
+		 
+		 totalDigits = num.length();
+		 
+System.out.println("The number of digits in the given input is " +totalDigits);;
+	}
+	
+
+}

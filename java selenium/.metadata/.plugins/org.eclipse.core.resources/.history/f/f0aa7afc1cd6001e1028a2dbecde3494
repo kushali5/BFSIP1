@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module SeleniumSample {
+	requires org.seleniumhq.selenium.remote_driver;
+}

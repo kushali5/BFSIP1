@@ -1,0 +1,17 @@
+package Programs;
+
+public class NumberofDigits {
+
+	public static void main(String[] args) {
+		String num;
+		int totalDigits;
+		 Scanner s =new Scanner(Systemin);
+		 
+		 System.out.println("Enter Number: ");
+		 
+		 num = s.next();
+System.out.println("The number of digits in the given input is " +my_count);;
+	}
+	
+
+}

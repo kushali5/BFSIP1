@@ -1,0 +1,11 @@
+package Programs;
+
+public class SortingElementsinArray {
+
+	public static void main(String[] args) {
+		int a[]= {100,600,200,400,500,300};
+		System.out.println("Before sorting: " );
+		
+	}
+
+}

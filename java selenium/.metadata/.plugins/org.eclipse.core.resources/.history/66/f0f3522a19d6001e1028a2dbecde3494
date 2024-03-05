@@ -1,0 +1,11 @@
+package SeleniumDemo;
+
+public class BrowserLaunch {
+
+	public static void main(String[] args) {
+		
+		System.setProperty("webdriver.chrom.driver", "C:\\Users\\prathyusha bale\\Downloads\\chrome-win64.exe");
+
+	}
+
+}

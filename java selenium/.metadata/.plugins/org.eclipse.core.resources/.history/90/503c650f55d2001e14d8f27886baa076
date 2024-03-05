@@ -1,0 +1,16 @@
+package Programs;
+
+public class NumberofDigits {
+
+	public static void main(String[] args) {
+		int my_count=0,my_input=424323;
+		System.out.println("The number is defines as " +my_input);
+		for(;my_input !=0;my_input/=10,++my_input)
+			
+		{
+			
+		}
+System.out.println("The number of digits in the given input is " +my_count);;
+	}
+
+}
